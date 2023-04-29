@@ -1,0 +1,19 @@
+#logo {
+    margin-bottom: 20px;
+}
+
+#left_navbar {
+    margin-left: 70px;
+}
+
+#login {
+    display: none;
+}
+#Pages:hover #login {
+    display: block !important;
+    position: absolute;
+    right: 135px;
+    top: 0;
+    background: aliceblue;
+    list-style: none;
+}
